@@ -1,8 +1,6 @@
 # Practice README
 ## sub heading
----
 ### learnig syntaxes for markdown language
----
 Following a youtube tutorial for this
 
 more text with two line breaks between
@@ -20,7 +18,7 @@ more text with two line breaks between
 Including inline code `code goes here` in text.
 
 ```HTML
-<p>Codebloc example</p>
+<p>Codeblock example</p>
 ```
 ```C#
 Console.WriteLine("Hello");
